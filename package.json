@@ -1,0 +1,26 @@
+{
+  "name": "long-tail",
+  "version": "0.0.1",
+  "description": "Package for retrieving long tail keyword suggestions. Uses a REST API for retrieving them which is highly scalable and support thousands of requests.",
+  "main": "index.js",
+  "scripts": {
+    "run": "node dist/index.js",
+    "test": "test"
+  },
+  "keywords": [
+    "long",
+    "tail",
+    "keyword",
+    "suggestions",
+    "seo"
+  ],
+  "author": "Mihalcea Romeo",
+  "license": "MIT",
+  "dependencies": {
+    "unirest": "^0.5.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-preset-es2015": "^6.18.0"
+  }
+}
