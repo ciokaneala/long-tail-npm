@@ -7,6 +7,10 @@
     "run": "node dist/index.js",
     "test": "test"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ciokaneala/long-tail-npm"
+  },
   "keywords": [
     "long",
     "tail",

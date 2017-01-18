@@ -40,7 +40,7 @@ const tail = new LongTail('<mashape-api-token>');
 *     First param is the keyword with the second
 *     being the callback for the results.
 *     
-*     Thirs param is the country in which you wish
+*     Third param is the country in which you wish
 *     to perform the search.
 *     
 *     Fourth param is the language code
